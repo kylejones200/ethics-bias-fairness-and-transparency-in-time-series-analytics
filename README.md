@@ -1,7 +1,7 @@
 # Ethics Bias Fairness and Transparency in Time Series Analytics
 
-**Published:** 2025-02-02
-**Medium:** [https://medium.com/@kyle-t-jones/ethics-bias-fairness-and-transparency-in-time-series-analytics-4a0d06f574d0](https://medium.com/@kyle-t-jones/ethics-bias-fairness-and-transparency-in-time-series-analytics-4a0d06f574d0)
+Published: 2025-02-02
+Medium: [https://medium.com/@kyle-t-jones/ethics-bias-fairness-and-transparency-in-time-series-analytics-4a0d06f574d0](https://medium.com/@kyle-t-jones/ethics-bias-fairness-and-transparency-in-time-series-analytics-4a0d06f574d0)
 
 ## About
 
