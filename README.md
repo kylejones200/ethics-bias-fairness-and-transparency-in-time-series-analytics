@@ -11,14 +11,7 @@ Bias in time series analytics can manifest in multiple ways. Historical data oft
 
 Data collection methods themselves can introduce bias. Sampling frequencies, sensor placement, or monitoring schedules might inadvertently favor certain times, locations, or populations over others. In urban planning, traffic sensors placed predominantly in wealthy neighborhoods create an incomplete and biased view of city-wide transportation patterns. Organizations must carefully audit their data collection processes to ensure representative coverage across all relevant dimensions.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
